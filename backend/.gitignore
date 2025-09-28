@@ -1,0 +1,5 @@
+resources/config/application-local.yaml
+.venv/
+__pycache__/
+.idea/
+.vscode/

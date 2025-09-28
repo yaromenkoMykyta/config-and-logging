@@ -1,0 +1,5 @@
+app_name: App
+app_version: 1.0.0
+logging:
+  level: INFO
+  format: "%(asctime)s [%(levelname)s] - %(name)s - %(message)s"
